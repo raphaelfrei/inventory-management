@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CreateEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateInbound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateInboundSubItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateOutbound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateProductType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageCreateSector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageInbound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageOutbound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageProductType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ManageSupplier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SelectEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
